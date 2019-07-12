@@ -1,2 +1,4 @@
 # hello-world
-Another repository
+Sunshine
+
+Everything that's shinning is always gonna be gold.
